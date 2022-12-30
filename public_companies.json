@@ -1,0 +1,97 @@
+[
+  {
+    "name": "MicroStrategy",
+    "permalink": "nasdaq_mstr",
+    "long_ticker": "NASDAQ:MSTR",
+    "short_ticker": "MSTR",
+    "transactions": [
+      {
+        "date": "11/08/2020",
+        "btc": 21454,
+        "source_urls": [
+          "https://www.microstrategy.com/content/dam/website-assets/collateral/financial-documents/financial-document-archive/Form%208K%20-%20Aug%2011,%202020.pdf"
+        ]
+      },
+      {
+        "date": "14/09/2020",
+        "btc": 16796,
+        "tweet_urls": [
+          "https://twitter.com/saylor/status/1305850568531947520"
+        ]
+      },
+      {
+        "date": "13/12/2020",
+        "btc": 8957,
+        "source_urls": [
+          "https://www.microstrategy.com/content/dam/website-assets/collateral/financial-documents/press-release-archive/microstrategy-announces-over-1b-in-total-bitcoin-purchases-in-2020.pdf"
+        ]
+      },
+      {
+        "date": "21/12/2020",
+        "btc": 29646,
+        "source_urls": [
+          "https://www.microstrategy.com/content/dam/website-assets/collateral/financial-documents/press-release-archive/microstrategy-announces-over-1b-in-total-bitcoin-purchases-in-2020.pdf"
+        ]
+      },
+      {
+        "date": "24/02/2021",
+        "btc": 19452,
+        "source_urls": [
+          "https://www.microstrategy.com/content/dam/website-assets/collateral/financial-documents/press-release-archive/microstrategy-acquires-additional-19452-bitcoins-for-1-026-billion_02-24-2021.pdf"
+        ],
+        "tweet_urls": [
+          "https://twitter.com/saylor/status/1364561973363490817"
+        ]
+      },
+      {
+        "date": "05/04/2021",
+        "btc": 253,
+        "source_urls": [
+          "https://www.microstrategy.com/content/dam/website-assets/collateral/financial-documents/financial-document-archive/form-8-k_04-05-2021.pdf"
+        ],
+        "tweet_urls": [
+          "https://twitter.com/saylor/status/1379042960994668548"
+        ]
+      },
+      {
+        "date": "29/11/2021",
+        "btc": 7002,
+        "source_urls": [
+          "https://www.microstrategy.com/content/dam/website-assets/collateral/financial-documents/financial-document-archive/form-8-k_11-29-2021.pdf"
+        ]
+      },
+      {
+        "date": "08/12/2021",
+        "btc": 1434,
+        "source_urls": [
+          "https://www.microstrategy.com/content/dam/website-assets/collateral/financial-documents/financial-document-archive/form-8-k_12-09-2021.pdf"
+        ],
+        "tweet_urls": [
+          "https://twitter.com/saylor/status/1468930815421820932"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Block, Inc.",
+    "permalink": "asx_sq2",
+    "long_ticker": "ASX:SQ2",
+    "short_ticker": "SQ2",
+    "transactions": [
+      {
+        "date": "08/10/2020",
+        "btc": 4709,
+        "source_urls": [
+          "https://squareup.com/us/en/press/2020-bitcoin-investment"
+        ]
+      },
+      {
+        "date": "23/02/2021",
+        "btc": 3318,
+        "source_urls": [
+          "https://squareup.com/us/en/press/4q2020-earnings"
+        ]
+      }
+    ]
+  }
+]
