@@ -6,7 +6,7 @@
     "transactions": [
       {
         "date": "19/12/2017",
-        "btc": 213_519,
+        "btc": 213519,
         "source_urls": [
           "https://www.selec.org/more-than-200000-bitcoins-in-value-of-500-million-usd-found-by-the-bulgarian-authorities/",
           "https://www.coininsider.com/bulgarian-government-owns-3-billion-usd-bitcoin/"
@@ -14,7 +14,7 @@
       },
       {
         "date": "1/04/2019",
-        "btc": -213_519,
+        "btc": -213519,
         "source_urls": [
           "https://bitcoinist.com/bulgaria-not-bitcoin-1-6b-finance-minister/"
         ]
