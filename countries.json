@@ -29,47 +29,65 @@
       {
         "date": "2021-09-06T19:55:19.000Z",
         "btc": 200,
-        "tweet_urls": "https://twitter.com/nayibbukele/status/1434968475928248331"
+        "tweet_urls": [
+          "https://twitter.com/nayibbukele/status/1434968475928248331"
+        ]
       },
       {
         "date": "2021-09-06T23:33:52.000Z",
         "btc": 200,
-        "tweet_urls": "https://twitter.com/nayibbukele/status/1435023474494410753"
+        "tweet_urls": [
+          "https://twitter.com/nayibbukele/status/1435023474494410753"
+        ]
       },
       {
         "date": "08/09/2021",
         "btc": 150,
-        "tweet_urls": "https://twitter.com/nayibbukele/status/1435260422110732300"
+        "tweet_urls": [
+          "https://twitter.com/nayibbukele/status/1435260422110732300"
+        ]
       },
       {
         "date": "10/09/2021",
         "btc": 150,
-        "tweet_urls": "https://twitter.com/nayibbukele/status/1439815012642611203"
+        "tweet_urls": [
+          "https://twitter.com/nayibbukele/status/1439815012642611203"
+        ]
       },
       {
         "date": "28/10/2021",
         "btc": 420,
-        "tweet_urls": "https://twitter.com/nayibbukele/status/1453461587948445697"
+        "tweet_urls": [
+          "https://twitter.com/nayibbukele/status/1453461587948445697"
+        ]
       },
       {
         "date": "27/11/2021",
         "btc": 100,
-        "tweet_urls": "https://twitter.com/nayibbukele/status/1464307422793715716"
+        "tweet_urls": [
+          "https://twitter.com/nayibbukele/status/1464307422793715716"
+        ]
       },
       {
         "date": "04/12/2021",
         "btc": 150,
-        "tweet_urls": "https://twitter.com/nayibbukele/status/1467000621354135555"
+        "tweet_urls": [
+          "https://twitter.com/nayibbukele/status/1467000621354135555"
+        ]
       },
       {
         "date": "22/01/2022",
         "btc": 410,
-        "tweet_urls": "https://twitter.com/nayibbukele/status/1484651539587289091"
+        "tweet_urls": [
+          "https://twitter.com/nayibbukele/status/1484651539587289091"
+        ]
       },
       {
         "date": "10/05/2022",
         "btc": 500,
-        "tweet": "https://twitter.com/nayibbukele/status/1523742670044413954"
+        "tweet_urls": [
+          "https://twitter.com/nayibbukele/status/1523742670044413954"
+        ]
       }
     ]
   }
