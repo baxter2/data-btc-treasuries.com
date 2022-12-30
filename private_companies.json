@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Seetee",
+    "permalink": "seetee",
+    "twitter_url": "https://twitter.com/Seetee_io",
+    "transactions": [
+      {
+        "date": "08/03/2021",
+        "btc": 1170,
+        "source_urls": [
+          "https://www.akerasa.com/en/news/stock-exchange-releases/article/36900-aker-asa-launches-seetee-to-invest-in-bitcoin-and-blockchain-technology"
+        ],
+        "tweet_urls": [
+          "https://twitter.com/Seetee_io/status/1368831882192896001"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Stone Ridge Holdings Group",
+    "permalink": "stone_ridge_holdings_group",
+    "transactions": [
+      {
+        "date": "13/10/2020",
+        "btc": 10000,
+        "source_urls": [
+          "https://nydig.com/news/nydig-raises-50m-in-growth-equity-funding-nydig-parent-stone-ridge-holdings-group-announces-more-than-100m-in-bitcoin-as-primary-treasury-reserve-asset"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "The Motley Fool",
+    "permalink": "the_motely_fool",
+    "transactions": [
+      {
+        "date": "18/02/2021",
+        "btc": 100,
+        "source_urls": [
+          "https://www.fool.com/investing/2021/02/17/the-motley-fool-announces-5-million-investment-in/"
+        ],
+        "tweet_urls": [
+          "https://twitter.com/themotleyfool/status/1362120553960734728"
+        ]
+      }
+    ]
+  }
+]
