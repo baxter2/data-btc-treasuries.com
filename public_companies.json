@@ -4,6 +4,7 @@
     "permalink": "nasdaq_mstr",
     "long_ticker": "NASDAQ:MSTR",
     "short_ticker": "MSTR",
+    "twitter_url": "https://mobile.twitter.com/MicroStrategy",
     "transactions": [
       {
         "date": "11/08/2020",
@@ -77,6 +78,7 @@
     "permalink": "asx_sq2",
     "long_ticker": "ASX:SQ2",
     "short_ticker": "SQ2",
+    "twitter_url": "https://mobile.twitter.com/blocks",
     "transactions": [
       {
         "date": "08/10/2020",
