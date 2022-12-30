@@ -1,0 +1,76 @@
+[
+  {
+    "name": "Bulgaria",
+    "permalink": "bulgaria",
+    "alpha3": "BGR",
+    "transactions": [
+      {
+        "date": "19/12/2017",
+        "btc": 213_519,
+        "source_urls": [
+          "https://www.selec.org/more-than-200000-bitcoins-in-value-of-500-million-usd-found-by-the-bulgarian-authorities/",
+          "https://www.coininsider.com/bulgarian-government-owns-3-billion-usd-bitcoin/"
+        ]
+      },
+      {
+        "date": "1/04/2019",
+        "btc": -213_519,
+        "source_urls": [
+          "https://bitcoinist.com/bulgaria-not-bitcoin-1-6b-finance-minister/"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "El Salvador",
+    "permalink": "el_salvador",
+    "alpha3": "SLV",
+    "transactions": [
+      {
+        "date": "07/09/2021",
+        "btc": 200,
+        "tweet_urls": "https://twitter.com/nayibbukele/status/1434968475928248331"
+      },
+      {
+        "date": "07/09/2021",
+        "btc": 200,
+        "tweet_urls": "https://twitter.com/nayibbukele/status/1435023474494410753"
+      },
+      {
+        "date": "08/09/2021",
+        "btc": 150,
+        "tweet_urls": "https://twitter.com/nayibbukele/status/1435260422110732300"
+      },
+      {
+        "date": "10/09/2021",
+        "btc": 150,
+        "tweet_urls": "https://twitter.com/nayibbukele/status/1439815012642611203"
+      },
+      {
+        "date": "28/10/2021",
+        "btc": 420,
+        "tweet_urls": "https://twitter.com/nayibbukele/status/1453461587948445697"
+      },
+      {
+        "date": "27/11/2021",
+        "btc": 100,
+        "tweet_urls": "https://twitter.com/nayibbukele/status/1464307422793715716"
+      },
+      {
+        "date": "04/12/2021",
+        "btc": 150,
+        "tweet_urls": "https://twitter.com/nayibbukele/status/1467000621354135555"
+      },
+      {
+        "date": "22/01/2022",
+        "btc": 410,
+        "tweet_urls": "https://twitter.com/nayibbukele/status/1484651539587289091"
+      },
+      {
+        "date": "10/05/2022",
+        "btc": 500,
+        "tweet": "https://twitter.com/nayibbukele/status/1523742670044413954"
+      }
+    ]
+  }
+]
