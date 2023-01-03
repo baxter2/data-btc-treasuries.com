@@ -1,5 +1,19 @@
 [
   {
+    "name": "Lisk Foundation",
+    "permalink": "lisk_foundation",
+    "twitter_url": "https://twitter.com/LiskHQ",
+    "transactions": [
+      {
+        "date": "18/09/2019",
+        "btc": 3328,
+        "source_urls": [
+          "https://lisk.com/blog/posts/lisk-foundation-releases-financial-update-august-2019"
+        ]
+      }
+    ]
+  },
+  {
     "name": "Seetee",
     "permalink": "seetee",
     "twitter_url": "https://twitter.com/Seetee_io",
